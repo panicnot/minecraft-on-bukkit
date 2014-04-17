@@ -19,6 +19,9 @@ reload the js files
 
 --------------
 
+http://arghbox.files.wordpress.com/2013/06/minecraftbook.pdf
+
+--------------
 for python. 
 <code>
 create a file something like:
