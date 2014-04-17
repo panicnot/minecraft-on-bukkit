@@ -1,14 +1,24 @@
 download minecraft
+
 set profile to run 1.6.4
+
 open the start.command and make sure it's set up to run the right folder.
+
 open ops.txt and add in your minecraft name. this gives you access to run commands in game. 
+
 run the start.command 
+
 open minecraft
+
 multi player
+
 new -> localhost:25555 or where you are running the bukkit server
 
+
 in game press '/'
+
 /js castle()
+
 /js ranibow()
 
 plugins -> scriptcraft -> plugins -> make a folder (see emily)
