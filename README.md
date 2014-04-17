@@ -20,7 +20,7 @@ reload the js files
 --------------
 
 for python. 
-
+<code>
 create a file something like:
 # Sample program to create a pillar
 import mcpi.minecraft as minecraft
@@ -36,7 +36,7 @@ material = block.BRICK_BLOCK
 for level in range(0, height):
  world.setBlock( x+1, y+level, z+1, material )
  level = level + 1;
-
+</code>
 Then run it in terminal. 
 go back to the game, and see the result. 
 
