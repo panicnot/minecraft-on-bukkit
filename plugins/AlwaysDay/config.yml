@@ -1,0 +1,11 @@
+enabled: true
+worlds:
+  day:
+  - world
+  night: []
+  calm:
+  - world
+  storm: []
+updates:
+  autoupdate: true
+  remind: true
